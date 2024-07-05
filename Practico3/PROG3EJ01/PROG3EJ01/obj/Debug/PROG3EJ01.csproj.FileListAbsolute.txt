@@ -1,0 +1,8 @@
+C:\Users\Alumno\source\repos\PROG3EJ01\PROG3EJ01\bin\Debug\PROG3EJ01.exe.config
+C:\Users\Alumno\source\repos\PROG3EJ01\PROG3EJ01\bin\Debug\PROG3EJ01.exe
+C:\Users\Alumno\source\repos\PROG3EJ01\PROG3EJ01\bin\Debug\PROG3EJ01.pdb
+C:\Users\Alumno\source\repos\PROG3EJ01\PROG3EJ01\obj\Debug\PROG3EJ01.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\PROG3EJ01\PROG3EJ01\obj\Debug\PROG3EJ01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\source\repos\PROG3EJ01\PROG3EJ01\obj\Debug\PROG3EJ01.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\PROG3EJ01\PROG3EJ01\obj\Debug\PROG3EJ01.exe
+C:\Users\Alumno\source\repos\PROG3EJ01\PROG3EJ01\obj\Debug\PROG3EJ01.pdb
